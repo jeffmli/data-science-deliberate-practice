@@ -7,7 +7,9 @@
 ## Skill De-Construction 
 
 ### Programming 
-**Current Assessment/Level:** 
+**Current Assessment/Level:**
+
+**Objective/Outcome:**
 
 1. Speed
 - Purpose is to write programs faster, more efficiently 
@@ -27,12 +29,21 @@ PEP8 Standards
 
 Advanced Python Functions 
 
+Distributed Computing 
+
+Git
+
+Linux Commands 
+
+Spaced Repetition on Core Concepts 
 
 ### Machine Learning 
 **Current Assessment/Level:**
 
 Purpose: 
+- Increase the breadth of techniques in my toolbox
 
+- Either write the code or write the blog post + math from memory with needing to peak. Using active re-call. 
 
 1. 
 
