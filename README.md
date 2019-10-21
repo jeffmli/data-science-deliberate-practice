@@ -43,27 +43,42 @@ We assume that each subsequent level will contain all the skills of the previous
 For me to progress, it's important to do a gap analysis on my current skills. By identifying the gaps, I can develop a plan that specifically fills these gaps. 
 
 **Technical Skills**
+
 Areas for Improvement:
 - Producing error-free analysis, significantly reducing the frequency of bugs (Level 1). 
 - Understand how to increase the speed of my code so I can provide results quickly(Level 1). 
 
 **Influence/Leadership**
+
 Areas for Improvement:
 - Become a domain expert within a specific product area (Level 2). 
 - Begin influencing decisions within a product (Level 2). 
 
 **Problem Formulation**:
+
 Areas for Improvement:
 - Take a vague, undefined problem and break it down into a concrete roadmap (Level 2). 
 
 **Independence**:
+
 Areas for Improvement:
 - Independently handle conversations with business partners.
 
-Conducting my own gap analysis, the most important thing for me is to **reduce the frequency of bugs** within my code and **increase the speed at which I produce results.** 
-
+Conducting my own gap analysis, the most important thing for me is to **reduce the frequency of bugs** within my code and **increase the speed at which I produce results.** By reducing the frequency of bugs and producing results faster, this will **build trust** with business partners. With higher trust, this will open up opportunities to take on more vaguely defined projects. In addition, having more influence comes from **having more knowledge** on a particular domain, which means I'll need to pick a side of the business to hone in on. 
 
 ## Performance Outcomes
+Now that I've identified the gaps, I'll need to translate these into performance-based outcomes:
+
+### Technical Skills
+**1. Incorporate the principles of defensive programming into my workflow**: Defensive programming include asserts, logging, and unit tests. This is important because producing error-free analysis is what will build trust with partners while opening up more opportunities for future projects. 
+
+**2. Accelerate code speed**: Improving code speed will be broken down into a few components:
+- Get better at translating logic into code 
+- Understanding different Python runtimes under the hood
+- Distributed Computing 
+
+### Influence/Leadership/Independence
+**3. Decide on the business area of focus**: 
 
 ## Project Outcomes 
 
