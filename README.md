@@ -78,15 +78,30 @@ Now that I've identified the gaps, I'll need to translate these into performance
 - Distributed Computing 
 
 ### Influence/Leadership/Independence
-**3. Decide on the business area of focus**: 
+**3. Decide on the business area of focus**: This will require more thinking & experimentation. 
 
 ## Project Outcomes 
 
+
+
 ## Skill De-Construction 
+1. PEP8 Standards 
+- Remove any bad habits I have while coding.
+
+2. Debugging
+
+Memorize until it's habitual. 
+
+Need a way to memorize it and apply it. 
+
+Good Project would be to write a package. 
 
 ### Programming 
 
 **Current Assessment/Level:**
+
+## Resources
+- Writing Clean Code in Python Book 
 
 **Objective/Outcome:**
 
